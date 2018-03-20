@@ -1,0 +1,6 @@
+framework module RSAutoWebView {
+  umbrella header "RSAutoWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_RSAutoWebView_Example {
+  umbrella header "Pods-RSAutoWebView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

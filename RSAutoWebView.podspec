@@ -14,11 +14,11 @@ Pod::Spec.new do |s|
   Automatically select webview type based on system version.
   DESC
 
-  s.homepage         = 'https://github.com/ReverseScale@icloud.com/RSAutoWebView'
+  s.homepage         = 'https://github.com/ReverseScale/RSAutoWebViewLib'
 
   s.license          = 'MIT'
   s.author           = { 'ReverseScale' => 'reversescale@icloud.com' }
-  s.source           = { :git => 'https://github.com/ReverseScale@icloud.com/RSAutoWebView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ReverseScale/RSAutoWebViewLib.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
